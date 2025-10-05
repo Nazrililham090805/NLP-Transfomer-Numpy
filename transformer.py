@@ -1,6 +1,5 @@
 """
 Implementasi Transformer dari Nol dengan NumPy
-Tugas: Decoder-only Transformer (GPT-style)
 """
 
 import numpy as np

@@ -1,5 +1,4 @@
 """
-Contoh Penggunaan Decoder-Only Transformer
 Demonstrasi cara menggunakan model untuk prediksi token
 """
 
